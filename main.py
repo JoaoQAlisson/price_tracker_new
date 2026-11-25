@@ -19,8 +19,8 @@ LISTA_PRODUTOS = [
     },
     {
         "nome": "PS5 Slim Dig - 825Gb - S/Jogos",
-        "url": "https://www.amazon.com.br/Sony-PlayStation-Edição-Digital-Controle/dp/B0GWNKJDCZ/ref=pd_vtp_d_sccl_1_3/143-7284309-0532402?pd_rd_w=ak6n8&content-id=amzn1.sym.8151f597-9f36-4832-b1b2-97e67c93d249&pf_rd_p=8151f597-9f36-4832-b1b2-97e67c93d249&pf_"
-        "rd_r=XR09GGCKJX7MC82D1Y0F&pd_rd_wg=IqUo6&pd_rd_r=c7fb6a86-984f-4c8c-a437-d2d16cd7f172&pd_rd_i=B0GWNKJDCZ&psc=1",
+        "url": "https://www.amazon.com.br/Sony-PlayStation-Edição-Digital-Controle/dp/B0GWNKJDCZ/ref=sr_1_2?__mk_pt_BR=ÅMÅŽÕÑ&crid=3MQ5MI6DS8I6X&dib=eyJ2IjoiMSJ9.0TWYKganEp-3_8_Isg7DEBPhBv9oj7clyYGDf1WiySoVbw-6Mwov2k2bddyf4TafO05kF7aJCwUxJUmEsBRUHReUmkTtYja9vHr"
+        "_H4dkETXX6k1CDVGAvW4iYkRImw1_eL_IcIwfNjKsKiEujNA24dPiT2vL69AqOuMsNjZu-eWsAJ1BvFDR0psMEmlUliroqQFKtDK0_I_bKreg_373l9Rkgkrz42nfvRzhmrmuwZTYsT9r6B74RvYqFPn3tYecAzR3lgxXzs4SG2_5YRefWnpabr_TQplM0Yg7Xiv_J70.otpCYdPPQ9HjUjafITXa0Xo1w6bQSoE4OSjO-xswLhs&dib_tag=se&keywords=sony+playstation+5+slim&qid=1795611934&sprefix=sony+playstation+5+slim+%2Caps%2C270&sr=8-2&ufe=app_do%3Aamzn1.fos.95de73c3-5dda-43a7-bd1f-63af03b14751",
         "alvo": 3800.00,
         "tag": "span",
         "classe": "highlight-total-line-desktop"
