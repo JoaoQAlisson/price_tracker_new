@@ -11,8 +11,7 @@ Os valores são salvos em um banco de dados, ao fim do ano (após a Black Friday
 LISTA_PRODUTOS = [
     {
         "nome": "PS5 Slim Dig - 825Gb - Pct AstroBot+Gran",
-        "url": "https://www.amazon.com.br/PlayStation®5-Slim-Digital-825GB-Turismo/dp/B0FPGF9J2J/ref=sr_1_2?brr=1&dib=eyJ2IjoiMSJ9._FCLhj9XU-hEdG3fD-U35DYTp2GQj492MqboULIQJI3KtyQI_aP48dVU73DoJkKQwKAUALOY_Sn3j1UKom9dj4PtnNVM0Tk16Ghh4l7b2_Fvc5NZ85Y6DvekuAV1PPo90O"
-        "_e3l4jeAG6AG3ItkwN6GiIOrxYtNEkS5PHVtmsKMj06RfWL-Xdfhez6gIcAKZKS-3aN-78Lg6DdwLxmIjn38KNaA601Wu0OR_oKxxIBMY.JimE7O5nuuGTS8MmwU4rM8Vk8cvKbwCPJsGIjzrDpEk&dib_tag=se&qid=1795441523&rd=1&s=videogames&sr=1-2&ufe=app_do%3Aamzn1.fos.9e6a115c-05b9-4b96-8e1c-b1f9ce2ac1a6",
+        "url": "https://www.amazon.com.br/gp/product/B0FPGF9J2J/ref=ox_sc_act_title_1?smid=A1ZZFT5FULY4LN&psc=1",
         "alvo": 4000.00,
         "tag": "span",
         "classe": "highlight-total-line-desktop"
