@@ -3,7 +3,7 @@ name: Bot Monitor PS5
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # Roda a cada 12h
+    - cron: '1 * * * *'  # Roda a cada 12h
   workflow_dispatch:     
 
 jobs:
