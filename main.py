@@ -18,16 +18,14 @@ LISTA_PRODUTOS = [
     },
     {
         "nome": "PS5 Slim Dig - 825Gb - S/Jogos",
-        "url": "https://www.amazon.com.br/Sony-PlayStation-Edição-Digital-Controle/dp/B0GWNKJDCZ/ref=sr_1_2?__mk_pt_BR=ÅMÅŽÕÑ&crid=3MQ5MI6DS8I6X&dib=eyJ2IjoiMSJ9.0TWYKganEp-3_8_Isg7DEBPhBv9oj7clyYGDf1WiySoVbw-6Mwov2k2bddyf4TafO05kF7aJCwUxJUmEsBRUHReUmkTtYja9vHr"
-        "_H4dkETXX6k1CDVGAvW4iYkRImw1_eL_IcIwfNjKsKiEujNA24dPiT2vL69AqOuMsNjZu-eWsAJ1BvFDR0psMEmlUliroqQFKtDK0_I_bKreg_373l9Rkgkrz42nfvRzhmrmuwZTYsT9r6B74RvYqFPn3tYecAzR3lgxXzs4SG2_5YRefWnpabr_TQplM0Yg7Xiv_J70.otpCYdPPQ9HjUjafITXa0Xo1w6bQSoE4OSjO-xswLhs&dib_tag=se&keywords=sony+playstation+5+slim&qid=1795611934&sprefix=sony+playstation+5+slim+%2Caps%2C270&sr=8-2&ufe=app_do%3Aamzn1.fos.95de73c3-5dda-43a7-bd1f-63af03b14751",
+        "url": "https://www.amazon.com.br/gp/product/B0GWNKJDCZ/ref=ewc_pr_img_4?smid=APJANL1RGWUHD&psc=1",
         "alvo": 3800.00,
         "tag": "span",
         "classe": "highlight-total-line-desktop"
     },
     {
         "nome": "PS5 Slim Dig 825Gb + GTA VI + AstroBot + Gran ",
-        "url": "https://www.amazon.com.br/Bundle-GTA-PlayStation-Slim-Digital/dp/B0H6LVH152/ref=sr_1_6?brr=1&dib=eyJ2IjoiMSJ9._FCLhj9XU-hEdG3fD-U35DYTp2GQj492MqboULIQJI3KtyQI_aP48dVU73DoJkKQwKAUALOY_Sn3j1UKom9dj4PtnNVM0Tk16Ghh4l7b2_Fvc5NZ85Y6DvekuAV1PPo90O_"
-        "e3l4jeAG6AG3ItkwN6GiIOrxYtNEkS5PHVtmsKMj06RfWL-Xdfhez6gIcAKZKS-3aN-78Lg6DdwLxmIjn38KNaA601Wu0OR_oKxxIBMY.JimE7O5nuuGTS8MmwU4rM8Vk8cvKbwCPJsGIjzrDpEk&dib_tag=se&qid=1795444025&rd=1&s=videogames&sr=1-6",
+        "url": "https://www.amazon.com.br/gp/product/B0H6LVH152/ref=ewc_pr_img_2?smid=A1ZZFT5FULY4LN&psc=1",
         "alvo": 4500.00,
         "tag": "span",
         "classe": "highlight-total-line-desktop"
